@@ -1,0 +1,17 @@
+appName = "appdemo"
+appId = "0"
+
+sentry = ""
+
+[[db]]
+name = "appdemo"
+type = "MySQL"
+url = ""
+
+[[redis]]
+name = ""
+appType = ""
+host = ""
+port = 6379
+db = 1
+password = ""

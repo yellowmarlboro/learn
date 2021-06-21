@@ -1,0 +1,17 @@
+appName = "appdemo"
+appId = "0"
+
+sentry = ""
+
+[db]
+name = "vn_risk"
+type = "MySQL"
+url = "user_oversea:EtfK7gmUDz8J80x@rm-3nsx13ofr5017j1vo.mysql.rds.aliyuncs.com:3306?charset=utf8"
+
+[redis]
+name = ""
+appType = ""
+host = ""
+port = 6379
+db = 1
+password = ""
